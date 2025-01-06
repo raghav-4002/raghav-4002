@@ -5,3 +5,5 @@
   - C programming
   - Linux and operating systems
   - Git and Github
+
+**And no, I'm not scared of the Commandline.**
