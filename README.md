@@ -2,8 +2,7 @@
 
 - I am a Computer Science student.
 - Currently, I'm learning:
-  - C programming
+  - Low-level terminal programming using C language
   - Linux and operating systems
-  - Git and Github
 
 **And no, I'm not scared of the Commandline.**
