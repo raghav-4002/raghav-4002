@@ -1,8 +1,10 @@
 # Hi, I'm Raghav!
 
-- I am a Computer Science student.
-- Currently, I'm learning:
-  - Low-level terminal programming using C language
-  - Linux and operating systems
-
-**And no, I'm not scared of the Commandline.**
+- I am a 1st year Computer science student.
+- Currently, I'm working on:
+  - A Unix shell
+  - A command-line text editor
+- Currenly, I'm learning:
+  - Algorithms and Data structures
+  - Linux and Unix operating system
+- I also love to solve problems on platforms like Advent of Code and Leetcode.
